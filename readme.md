@@ -1,12 +1,37 @@
-**Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
+# 💳 Razorpay Clone
 
-**Step 2:** To run:
+A modern, responsive clone of the Razorpay website built with **Tailwind CSS**. This project focuses on replicating the UI/UX of Razorpay’s landing page with pixel-perfect design and component-based structure.
 
-```bash
-npm install
-npm run start
-```
+## 🖼️ Preview
 
-**Step 3:** Goto [http://localhost:5173](http://localhost:5173)
+![Screenshot](./images/razorpay-clone-preview.png)
 
-Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
+> 📌 **Note:** This is a front-end only project — no backend or payment integration.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Site](https://razorpay-clone-1926.netlify.app/#)
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔵 **HTML5**
+- 🎨 **Tailwind CSS**
+- ⚙️ **Feather Icons**
+- 🖼️ **SVG and Responsive Images**
+
+---
+
+## 📁 Folder Structure
+
+razorpay-clone/
+├── images/ # Icons and illustrations
+├── index.html # Main page
+├── style.css # Tailwind CSS compiled (if used)
+├── tailwind.config.js # Tailwind config
+├── postcss.config.js # PostCSS setup
+├── package.json # Project metadata and dependencies
+└── README.md # You're here!
